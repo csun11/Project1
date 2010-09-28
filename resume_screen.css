@@ -1,0 +1,79 @@
+#resume
+{
+border-style:solid; 
+border-width:thin;
+}
+#resume
+{
+margin: -5px 40px 0px 200px; 
+padding: 20px 20px 20px 60px; 
+background-color: #CCFFFF;
+}
+a
+{
+text-decoration:none;
+}
+p.name
+{
+font-size: 16pt; text-align: center;
+}
+address
+{
+font-size: 14pt; text-align: center;
+}
+span.sub_title
+{
+font-weight: bold; font-family: arial; font-size:10pt; font-style: italic;
+}
+h3, h4
+{
+text-indent: -25px;
+}
+h4
+{
+font-size:12pt;
+}
+#nav_bar
+{position:fixed;
+top:-16px;
+left:75px;
+font-size:14pt;
+}
+#nav_bar li#header
+{
+background-color:#FFFFAD;
+font-weight:bold;
+font-size:16pt;
+}
+ul#nav
+{
+list-style-type:none;
+border-style:solid; 
+border-width:thin;
+padding:0px 2px;
+text-align:right;
+background-color:#FFFFED;
+}
+ul#nav li
+{
+border-style:solid; 
+border-width:thin;
+padding:5px 2px;
+}
+ul#links
+{
+list-style-type:none;
+border-style:solid; 
+border-width:thin;
+padding:0px 2px;
+text-align:right;
+background-color:#FFFFAD;
+}
+ul#links li
+{
+border-style:solid; 
+border-width:thin;
+padding:5px 2px;
+font-size:16pt;
+font-weight:bold;
+}

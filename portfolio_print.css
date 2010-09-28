@@ -1,0 +1,30 @@
+body
+{ 
+margin: 50px; 
+padding: 0px 10px;
+border-top-style:none;
+border-right-style:solid;
+border-bottom-style:none;
+border-left-style:solid;
+}
+
+p#welcome
+{ font-size: 16pt; font-weight: bold; text-align: center;}
+
+img
+{ 
+position:relative;
+top: 15px;
+left: 30px;
+}
+
+a
+{ font-family: arial; font-weight: bold; }
+
+ul#links li
+{list-style-type: none; font-style:italic; }
+ul#links
+{ position: relative; top: 15px;}
+
+ul#links
+{display:none;}
